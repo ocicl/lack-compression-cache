@@ -1,0 +1,9 @@
+* lack-compression-cache
+
+lack middleware for compressing and caching static resources
+
+|---------+-------------------------------------------------------------|
+| source  | git:https://github.com/daninus14/lack-compression-cache.git |
+| commit  | 7163075                                                     |
+| systems | lack-compression-cache                                      |
+|---------+-------------------------------------------------------------|
