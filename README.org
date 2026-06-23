@@ -7,4 +7,4 @@ lack middleware for compressing and caching static resources
 | commit  | 7163075                                                     |
 | systems | lack-compression-cache                                      |
 |---------+-------------------------------------------------------------|
- 
+  
